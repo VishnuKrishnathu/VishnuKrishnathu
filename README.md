@@ -19,7 +19,7 @@
  
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/rahulmahesh62) 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rahulmahesh/)
-[![Visits Badge](https://badges.pufler.dev/visits/RahulMahesh62/RahulMahesh62?style=for-the-badge)](https://github.com/VishnuKrishnathu)
+[![Visits Badge](https://badges.pufler.dev/visits/VishnuKrishnathu/VishnuKrishnathu?style=for-the-badge)](https://github.com/VishnuKrishnathu)
 
 </p>
 
