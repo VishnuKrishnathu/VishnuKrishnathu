@@ -31,7 +31,7 @@
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=VishnuKrishnathu&show_icons=true&count_private=true&theme=vue&hide=issues&line_height=32" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishnuKrishnathu&layout=compact&hide=python&line_height=32&theme=vue&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishnuKrishnathu&layout=compact&line_height=32&theme=vue&count_private=true" />
 
 
   
